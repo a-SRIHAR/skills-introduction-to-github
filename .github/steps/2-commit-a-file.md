@@ -1,4 +1,4 @@
-<!--
+Srihari<!--
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
@@ -6,7 +6,7 @@
 
 ## Step 2: Commit a file
 
-_You created a branch! :tada:_
+_You created a branch! : computer science engineering:_
 
 Creating a branch allows you to edit your project without changing the `main` branch. Now that you have a branch, it’s time to create a file and make your first commit!
 
